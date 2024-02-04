@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="doneTaskColor">#C8E6C9</color> <!-- Light Green -->
+    <color name="defaultTaskColor">#FFFFFF</color> <!-- White -->
+</resources>
